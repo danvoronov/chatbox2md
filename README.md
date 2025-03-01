@@ -4,7 +4,7 @@ A Node.js tool that converts [ChatBox](https://github.com/Bin-Huang/chatbox) JSO
 
 ## Why
 
-The program allows exporting only current chat to Markdown. If you have many chats and want to have a copy of them in Obsidian, there is no direct way to do so.
+ChatBox allows exporting only current chat to Markdown. If you have many chats and want to have a copy of them in Obsidian, there is no direct way to do so.
 
 ## Features
 
@@ -21,7 +21,7 @@ The program allows exporting only current chat to Markdown. If you have many cha
 
 ## Usage
 
-1. Export your ChatBox conversations as JSON and place them in the `input` folder
+1. Export your ChatBox conversations as JSON and place them in the `input` folder: : оpen Settings, then click ADVANCED tab. Expand 'Data Backup and Restore', check 'Chat History', and click EXPORT SELECTED DATA button.
 2. Ensure Node.js is installed on your system. You can download it from [nodejs.org](https://nodejs.org/)
 3. Run the converter:
 ```bash
