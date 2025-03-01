@@ -21,7 +21,7 @@ ChatBox allows exporting only current chat to Markdown. If you have many chats a
 
 ## Usage
 
-1. Export your ChatBox conversations as JSON and place them in the `input` folder: : оpen Settings, then click ADVANCED tab. Expand 'Data Backup and Restore', check 'Chat History', and click EXPORT SELECTED DATA button.
+1. Export your ChatBox conversations as JSON and place them in the `input` folder: оpen Settings, then click ADVANCED tab. Expand 'Data Backup and Restore', check 'Chat History', and click EXPORT SELECTED DATA button.
 2. Ensure Node.js is installed on your system. You can download it from [nodejs.org](https://nodejs.org/)
 3. Run the converter:
 ```bash
