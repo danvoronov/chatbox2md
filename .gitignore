@@ -1,0 +1,7 @@
+# Input directory - ignore JSON files but keep the directory
+input/*.json
+input/**/*.json
+!input/.gitkeep
+
+# Output directory 
+output

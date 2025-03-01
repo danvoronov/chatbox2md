@@ -1,0 +1,21 @@
+{
+  "name": "chatbox2md",
+  "version": "1.0.0",
+  "description": "Convert ChatBox JSON exports to Markdown format compatible with Obsidian",
+  "main": "convert.js",
+  "scripts": {
+    "start": "node convert.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbox",
+    "markdown",
+    "converter",
+    "obsidian",
+    "chat-history",
+    "json-to-markdown",
+    "chat-export",
+    "notes"
+  ],
+  "author": "Dan Voronov"
+}
