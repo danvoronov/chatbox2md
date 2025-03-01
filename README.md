@@ -1,6 +1,10 @@
 # ChatBox to Markdown Converter
 
-A Node.js tool that converts ChatBox JSON exports into Markdown files compatible with Obsidian.
+A Node.js tool that converts [ChatBox](https://github.com/Bin-Huang/chatbox) JSON exports into Markdown files compatible with Obsidian.
+
+## Why
+
+The program allows exporting only current chat to Markdown. If you have many chats and want to have a copy of them in Obsidian, there is no direct way to do so.
 
 ## Features
 
