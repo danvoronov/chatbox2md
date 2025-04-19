@@ -17,5 +17,8 @@
     "chat-export",
     "notes"
   ],
-  "author": "Dan Voronov"
+  "author": "Dan Voronov",
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
 }

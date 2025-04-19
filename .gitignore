@@ -1,7 +1,10 @@
+node_modules
+
 # Input directory - ignore JSON files but keep the directory
-input/*.json
+input*/*.json
 input/**/*.json
 !input/.gitkeep
+input*/*.zip
 
 # Output directory 
 output
